@@ -1,6 +1,7 @@
 
 # clear every tag from player
 # this is used to reset player tags after a game has ended  
+# test
 
 # killer tags
 tellraw @a {text:"[@] 살인마 태그 초기화중...",color:"gray",italic:true}
