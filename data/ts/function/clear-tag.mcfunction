@@ -23,5 +23,6 @@ tag @a remove defP
 tag @a remove defG
 tag @a remove desoul
 tag @a remove cultist
+tag @a remove cvi
 
 tellraw @a {text:"[@] 태그 초기화 완료!",color:"gray",italic:true}
