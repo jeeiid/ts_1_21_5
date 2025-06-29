@@ -42,5 +42,7 @@ tag @a remove defG
 tellraw @a {text:"[@] defG 초기화 완료!",color:"gray",italic:true}
 tag @a remove desoul
 tellraw @a {text:"[@] desoul 초기화 완료!",color:"gray",italic:true}
+tag @a remove cultist
+tellraw @a {text:"[@] cultist 초기화 완료!",color:"gray",italic:true}
 
 tellraw @a {text:"[@] 태그 초기화 완료!",color:"gray",italic:true}
